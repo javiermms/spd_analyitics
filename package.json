@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Coswold/Calcumon.git"
+    "url": "git+https://github.com/javiermms/spd_analyitics"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Coswold/Calcumon/issues"
+    "url": "https://github.com/javiermms/spd_analyitics/issues"
   },
-  "homepage": "https://github.com/Coswold/Calcumon#readme",
+  "homepage": "https://github.com/javiermms/spd_analyitics#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
